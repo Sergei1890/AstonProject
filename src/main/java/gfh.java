@@ -19,6 +19,7 @@ public class gfh {
         employee4.printInfo();
         employee5.printInfo();
 
+
         // Парк и аттракционы
         Park park = new Park();
         park.addAttraction("Качели", "10:00 - 22:00", 60);
