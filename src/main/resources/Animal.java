@@ -9,5 +9,6 @@ public abstract class Animal {
 
     // Абстрактные методы должны быть public, чтобы наследники могли их переопределить
     public abstract void run(int distance);
+
     public abstract void swim(int distance);
 }
