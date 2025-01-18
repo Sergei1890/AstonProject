@@ -10,10 +10,7 @@ public class Main {
         try {
             System.out.println(SumMethod.sumMethod(array));
         }
-        catch (MyArraySizeException e) {
-            System.out.println(e.getMessage());
-        }
-        catch (MyArrayDataException e) {
+        catch (MyArraySizeException | MyArrayDataException e) {
             System.out.println(e.getMessage());
         }
     }
