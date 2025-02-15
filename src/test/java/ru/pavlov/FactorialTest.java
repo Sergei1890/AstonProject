@@ -5,7 +5,6 @@ import static org.testng.Assert.*;
 
 public class FactorialTest {
 
-
     @Test
     public void testFactorialOfZero() {
         assertEquals(Factorial.factorial(0), 1);
