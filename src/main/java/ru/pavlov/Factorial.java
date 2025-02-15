@@ -1,7 +1,7 @@
 package ru.pavlov;
 
 public class Factorial {
-    public int factorial(int n) {
+    public static int factorial(int n) {
         if (n < 0) {
             throw new IllegalArgumentException("Отрицательное число недопустимо");
         }
