@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f586c883-5c66-4ec9-8c5c-fd2409cb4af7" name="Changes" comment="some" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="AstonProject" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="Lesson_13_testng" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Sergei1890&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Sergei1890/AstonProject.git&quot;,
+    &quot;accountId&quot;: &quot;c445bee1-c7ad-4dfb-a2f9-0f47d45a18ae&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2qfcByyV37W8JJUygxTlk6PkjcN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Gradle.AstonProject [:Main.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.AstonProject [:task1.MainTask1.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.AstonProject [:task2.MainTask2.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.AstonProject [:task_1.MainTask1.main()].executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.AstonProject [:task_2.MainTask2.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.AstonProject [dependencies].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.AstonProject [test].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.FacorialTest.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.FactorialTest (1).executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.FactorialTest.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.FactorialTest.testFactoprialOfBigNuber.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.FactorialTest.testFactorialEndsWithZeroForNGreaterThan4.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.FactorialTest.testFactorialOfBigNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.FactorialTest.testFactorialOfNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.FactorialTest.testFactorialOfNumbers.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.FactorialTest.testFactorialOfSix.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.FactorialTest.testFactorialOfZero.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.FactorialTest.testNegativeNumber (1).executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.FactorialTest.testNegativeNumber.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.FactorialTest.executor&quot;: &quot;Run&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Lesson__13__junit__5&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/serge/IdeaProjects/AstonProject/src/main&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.project.gradle&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\serge\IdeaProjects\AstonProject\src\main" />
+      <recent name="C:\Users\serge\IdeaProjects\AstonProject\src\main\java" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\serge\IdeaProjects\AstonProject\src\main\java" />
+      <recent name="C:\Users\serge\IdeaProjects\AstonProject\src\main" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.FactorialTest">
+    <configuration name="FactorialTest (1)" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;ru.pavlov.FactorialTest&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="FactorialTest.testFactorialOfBigNumber" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;ru.pavlov.FactorialTest.testFactorialOfBigNumber&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="FactorialTest.testFactorialOfNumber" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;ru.pavlov.FactorialTest.testFactorialOfNumber&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="FactorialTest.testFactorialOfZero" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;ru.pavlov.FactorialTest.testFactorialOfZero&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="FactorialTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AstonProject.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.pavlov.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.pavlov" />
+      <option name="MAIN_CLASS_NAME" value="ru.pavlov.FactorialTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.FactorialTest" />
+        <item itemvalue="Gradle.FactorialTest (1)" />
+        <item itemvalue="Gradle.FactorialTest.testFactorialOfZero" />
+        <item itemvalue="Gradle.FactorialTest.testFactorialOfNumber" />
+        <item itemvalue="Gradle.FactorialTest.testFactorialOfBigNumber" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f586c883-5c66-4ec9-8c5c-fd2409cb4af7" name="Changes" comment="" />
+      <created>1735056938906</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1735056938906</updated>
+    </task>
+    <task id="LOCAL-00001" summary="gfs">
+      <option name="closed" value="true" />
+      <created>1735059265312</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1735059265312</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Deleted main">
+      <option name="closed" value="true" />
+      <created>1735059480186</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1735059480186</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added 2 fails">
+      <option name="closed" value="true" />
+      <created>1735061389301</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1735061389301</updated>
+    </task>
+    <task id="LOCAL-00004" summary="ДЗ L4">
+      <option name="closed" value="true" />
+      <created>1735388899834</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1735388899834</updated>
+    </task>
+    <task id="LOCAL-00005" summary="some changes">
+      <option name="closed" value="true" />
+      <created>1736456123596</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1736456123596</updated>
+    </task>
+    <task id="LOCAL-00006" summary="some changes">
+      <option name="closed" value="true" />
+      <created>1736456281314</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1736456281314</updated>
+    </task>
+    <task id="LOCAL-00007" summary="some changes">
+      <option name="closed" value="true" />
+      <created>1736683847824</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1736683847824</updated>
+    </task>
+    <task id="LOCAL-00008" summary="some changes">
+      <option name="closed" value="true" />
+      <created>1736683927245</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1736683927245</updated>
+    </task>
+    <task id="LOCAL-00009" summary="some changes">
+      <option name="closed" value="true" />
+      <created>1736684149229</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1736684149229</updated>
+    </task>
+    <task id="LOCAL-00010" summary="some changes">
+      <option name="closed" value="true" />
+      <created>1736684319229</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1736684319229</updated>
+    </task>
+    <task id="LOCAL-00011" summary="some changes">
+      <option name="closed" value="true" />
+      <created>1737189002566</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1737189002566</updated>
+    </task>
+    <task id="LOCAL-00012" summary="some changes">
+      <option name="closed" value="true" />
+      <created>1737189476262</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1737189476262</updated>
+    </task>
+    <task id="LOCAL-00013" summary="some changes">
+      <option name="closed" value="true" />
+      <created>1737819331064</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1737819331064</updated>
+    </task>
+    <task id="LOCAL-00014" summary="some changes">
+      <option name="closed" value="true" />
+      <created>1739627248766</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1739627248766</updated>
+    </task>
+    <task id="LOCAL-00015" summary="some changes">
+      <option name="closed" value="true" />
+      <created>1739628079002</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1739628079002</updated>
+    </task>
+    <task id="LOCAL-00016" summary="some">
+      <option name="closed" value="true" />
+      <created>1739628124761</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1739628124761</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="254c25be-677d-4f2c-af67-686ec0d39538" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="254c25be-677d-4f2c-af67-686ec0d39538">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/L3" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="Lesson_13_junit_5" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="gfs" />
+    <MESSAGE value="Deleted main" />
+    <MESSAGE value="Added 2 fails" />
+    <MESSAGE value="ДЗ L4" />
+    <MESSAGE value="some changes" />
+    <MESSAGE value="some" />
+    <option name="LAST_COMMIT_MESSAGE" value="some" />
+    <option name="LAST_CHUNK_COMMIT_MESSAGE" value="some changes" />
+  </component>
+</project>

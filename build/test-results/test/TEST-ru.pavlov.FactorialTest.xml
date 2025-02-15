@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ru.pavlov.FactorialTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2025-02-15T13:13:47" hostname="DESKTOP-1MJITN0" time="0.02">
+  <properties/>
+  <testcase name="testFactorialOfNumber()" classname="ru.pavlov.FactorialTest" time="0.014"/>
+  <testcase name="testNegativeNumber()" classname="ru.pavlov.FactorialTest" time="0.002"/>
+  <testcase name="testFactorialOfZero()" classname="ru.pavlov.FactorialTest" time="0.001"/>
+  <testcase name="testFactorialOfBigNumber()" classname="ru.pavlov.FactorialTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
