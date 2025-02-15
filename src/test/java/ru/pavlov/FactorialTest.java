@@ -1,11 +1,10 @@
 package ru.pavlov;
 
 import org.junit.jupiter.api.Test;
-
 import static org.junit.jupiter.api.Assertions.*;
 
 public class FactorialTest {
-    private Factorial calculator = new Factorial();
+    private final Factorial calculator = new Factorial();
 
     @Test
     public void testFactorialOfZero() {
