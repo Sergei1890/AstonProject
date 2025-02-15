@@ -1,7 +1,7 @@
 package ru.pavlov;
 
 import org.testng.annotations.Test;
-import static org.testng.Assert.*;
+import static org.testng.Assert.assertEquals;
 
 public class FactorialTest {
 
@@ -16,10 +16,11 @@ public class FactorialTest {
         assertEquals(Factorial.factorial(2), 2);
         assertEquals(Factorial.factorial(6), 720);
     }
+
     @Test
-        //Для любого n > 9:
+    //Для любого n > 9:
     public void testFactorialOfBigNumber() {
-        assertEquals((Factorial.factorial(10))%100, 0);
+        assertEquals((Factorial.factorial(10)) % 100, 0);
     }
 
     @Test(expectedExceptions = IllegalArgumentException.class)
