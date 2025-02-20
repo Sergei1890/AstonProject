@@ -1,7 +1,9 @@
 package ru.pavlov;
 
 import org.junit.jupiter.api.Test;
-import static org.junit.jupiter.api.Assertions.*;
+import org.junit.jupiter.params.ParameterizedTest;
+import org.junit.jupiter.params.provider.CsvSource;
+import org.assertj.core.api.SoftAssertions;
 
 public class FactorialTest {
     private final Factorial calculator = new Factorial();
@@ -12,17 +14,19 @@ public class FactorialTest {
     }
 
     @Test
-    public void testFactorialOfNumber() {
-        assertEquals(1, calculator.factorial(1));
-        assertEquals(2, calculator.factorial(2));
-        assertEquals(6, calculator.factorial(3));
-        assertEquals(720, calculator.factorial(6));
+    public void softTestFactorialOfNumber() {
+        SoftAssertions soft = new SoftAssertions();
+        soft.assertThat(calculator.factorial(1)).isEqualTo(1);
+        soft.assertThat(calculator.factorial(2)).isEqualTo(2);
+        soft.assertThat(calculator.factorial(3)).isEqualTo(6);
+        soft.assertThat(calculator.factorial(6)).isEqualTo(720);
+        soft.assertAll();
     }
 
     @Test
-        //Для любого n > 9:
+    //Для любого n > 9:
     public void testFactorialOfBigNumber() {
-        assertEquals(0, (calculator.factorial(10))%100);
+        assertEquals(0, (calculator.factorial(10)) % 100);
     }
 
     @Test
