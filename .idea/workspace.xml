@@ -4,9 +4,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f586c883-5c66-4ec9-8c5c-fd2409cb4af7" name="Changes" comment="some">
+    <list default="true" id="f586c883-5c66-4ec9-8c5c-fd2409cb4af7" name="Changes" comment="some1">
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/pavlov/NumberTooLargeException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.10/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.10/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.10/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.10/checksums/md5-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.10/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.10/checksums/sha1-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.10/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.10/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.10/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.10/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/ru/pavlov/FactorialTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/ru/pavlov/Factorial.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/ru/pavlov/Factorial.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/ru.pavlov.FactorialTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/ru.pavlov.FactorialTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/css/base-style.css" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/css/base-style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/js/report.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/js/report.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/ru.pavlov.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/ru.pavlov.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-ru.pavlov.FactorialTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-ru.pavlov.FactorialTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/pavlov/Factorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/pavlov/Factorial.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/ru/pavlov/FactorialTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/pavlov/FactorialTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -77,43 +97,46 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
-    &quot;Gradle.AstonProject [:Main.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.AstonProject [:task1.MainTask1.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.AstonProject [:task2.MainTask2.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.AstonProject [:task_1.MainTask1.main()].executor&quot;: &quot;Debug&quot;,
-    &quot;Gradle.AstonProject [:task_2.MainTask2.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.AstonProject [dependencies].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.AstonProject [test].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.FacorialTest.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.FactorialTest (1).executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.FactorialTest.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.FactorialTest.testFactoprialOfBigNuber.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.FactorialTest.testFactorialEndsWithZeroForNGreaterThan4.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.FactorialTest.testFactorialOfBigNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.FactorialTest.testFactorialOfNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.FactorialTest.testFactorialOfNumbers.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.FactorialTest.testFactorialOfSix.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.FactorialTest.testFactorialOfZero.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.FactorialTest.testNegativeNumber (1).executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.FactorialTest.testNegativeNumber.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.FactorialTest.executor&quot;: &quot;Run&quot;,
-    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;Lesson__13__junit__5&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/serge/IdeaProjects/AstonProject/src/main&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.project.gradle&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Gradle.AstonProject [:Main.main()].executor": "Run",
+    "Gradle.AstonProject [:task1.MainTask1.main()].executor": "Run",
+    "Gradle.AstonProject [:task2.MainTask2.main()].executor": "Run",
+    "Gradle.AstonProject [:task_1.MainTask1.main()].executor": "Debug",
+    "Gradle.AstonProject [:task_2.MainTask2.main()].executor": "Run",
+    "Gradle.AstonProject [dependencies].executor": "Run",
+    "Gradle.AstonProject [test].executor": "Run",
+    "Gradle.FacorialTest.executor": "Run",
+    "Gradle.FactorialTest (1).executor": "Run",
+    "Gradle.FactorialTest.executor": "Run",
+    "Gradle.FactorialTest.softTestFactorialOfNumber.executor": "Run",
+    "Gradle.FactorialTest.testFactoprialOfBigNuber.executor": "Run",
+    "Gradle.FactorialTest.testFactorialEndsWithZeroForNGreaterThan4.executor": "Run",
+    "Gradle.FactorialTest.testFactorialOfBigNumber.executor": "Run",
+    "Gradle.FactorialTest.testFactorialOfBigNumber9.executor": "Run",
+    "Gradle.FactorialTest.testFactorialOfMaxNumber.executor": "Run",
+    "Gradle.FactorialTest.testFactorialOfNumber.executor": "Run",
+    "Gradle.FactorialTest.testFactorialOfNumbers.executor": "Run",
+    "Gradle.FactorialTest.testFactorialOfSix.executor": "Run",
+    "Gradle.FactorialTest.testFactorialOfZero.executor": "Run",
+    "Gradle.FactorialTest.testNegativeNumber (1).executor": "Run",
+    "Gradle.FactorialTest.testNegativeNumber.executor": "Run",
+    "JUnit.FactorialTest.executor": "Run",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "Lesson__13__junit__5",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/serge/IdeaProjects/AstonProject/src/main",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\serge\IdeaProjects\AstonProject\src\main" />
@@ -124,7 +147,7 @@
       <recent name="C:\Users\serge\IdeaProjects\AstonProject\src\main" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.FactorialTest">
+  <component name="RunManager" selected="Gradle.FactorialTest (1)">
     <configuration name="FactorialTest (1)" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -149,7 +172,7 @@
       <RunAsTest>true</RunAsTest>
       <method v="2" />
     </configuration>
-    <configuration name="FactorialTest.testFactorialOfBigNumber" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="FactorialTest.softTestFactorialOfNumber" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -162,7 +185,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;ru.pavlov.FactorialTest.testFactorialOfBigNumber&quot;" />
+            <option value="&quot;ru.pavlov.FactorialTest.softTestFactorialOfNumber&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -173,7 +196,7 @@
       <RunAsTest>true</RunAsTest>
       <method v="2" />
     </configuration>
-    <configuration name="FactorialTest.testFactorialOfNumber" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="FactorialTest.testFactorialOfBigNumber9" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -186,7 +209,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;ru.pavlov.FactorialTest.testFactorialOfNumber&quot;" />
+            <option value="&quot;ru.pavlov.FactorialTest.testFactorialOfBigNumber9&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -197,7 +220,7 @@
       <RunAsTest>true</RunAsTest>
       <method v="2" />
     </configuration>
-    <configuration name="FactorialTest.testFactorialOfZero" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="FactorialTest.testFactorialOfMaxNumber" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -210,7 +233,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;ru.pavlov.FactorialTest.testFactorialOfZero&quot;" />
+            <option value="&quot;ru.pavlov.FactorialTest.testFactorialOfMaxNumber&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -238,11 +261,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.FactorialTest" />
         <item itemvalue="Gradle.FactorialTest (1)" />
-        <item itemvalue="Gradle.FactorialTest.testFactorialOfZero" />
-        <item itemvalue="Gradle.FactorialTest.testFactorialOfNumber" />
-        <item itemvalue="Gradle.FactorialTest.testFactorialOfBigNumber" />
+        <item itemvalue="Gradle.FactorialTest.testFactorialOfMaxNumber" />
+        <item itemvalue="Gradle.FactorialTest.softTestFactorialOfNumber" />
+        <item itemvalue="Gradle.FactorialTest.testFactorialOfBigNumber9" />
+        <item itemvalue="JUnit.FactorialTest" />
       </list>
     </recent_temporary>
   </component>
@@ -383,7 +406,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739628124761</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="some">
+      <option name="closed" value="true" />
+      <created>1740053854212</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1740053854212</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

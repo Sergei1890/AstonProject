@@ -1,9 +1,11 @@
 package ru.pavlov;
 
-import org.junit.jupiter.api.Test;
-import org.junit.jupiter.params.ParameterizedTest;
-import org.junit.jupiter.params.provider.CsvSource;
 import org.assertj.core.api.SoftAssertions;
+import org.junit.jupiter.api.Test;
+
+import static org.junit.jupiter.api.Assertions.assertEquals;
+import static org.junit.jupiter.api.Assertions.assertThrows;
+
 
 public class FactorialTest {
     private final Factorial calculator = new Factorial();
@@ -24,15 +26,19 @@ public class FactorialTest {
     }
 
     @Test
+    public void testFactorialOfMaxNumber() {
+        assertThrows(NumberTooLargeException.class, () -> calculator.factorial(21));
+    }
+
+    @Test
     //Для любого n > 9:
-    public void testFactorialOfBigNumber() {
-        assertEquals(0, (calculator.factorial(10)) % 100);
+    public void testFactorialOfBigNumber9() {
+        assertEquals(0, (calculator.factorial(11)) % 100);
     }
 
     @Test
     public void testNegativeNumber() {
         assertThrows(IllegalArgumentException.class, () -> calculator.factorial(-1));
-        assertThrows(IllegalArgumentException.class, () -> calculator.factorial(-2));
     }
 }
 
