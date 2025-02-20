@@ -1,0 +1,20 @@
+plugins {
+    id 'java'
+}
+
+group 'com.example'
+version '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    implementation 'org.jetbrains:annotations:23.0.0' // Пример зависимости
+    testImplementation 'org.junit.jupiter:junit-jupiter:5.8.2' // Зависимость для JUnit 5
+    testImplementation 'org.assertj:assertj-core:3.21.0' // Зависимость для AssertJ
+}
+
+test {
+    useJUnitPlatform()
+}

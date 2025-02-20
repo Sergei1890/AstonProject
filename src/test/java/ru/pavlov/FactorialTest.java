@@ -2,7 +2,6 @@ package ru.pavlov;
 
 import org.assertj.core.api.SoftAssertions;
 import org.junit.jupiter.api.Test;
-
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertThrows;
 
@@ -34,6 +33,11 @@ public class FactorialTest {
     //Для любого n > 9:
     public void testFactorialOfBigNumber9() {
         assertEquals(0, (calculator.factorial(11)) % 100);
+    }
+
+    @Test
+    public void testFactorialBigNumbers() {
+        assertEquals(2432902008176640000L, calculator.factorial(20));
     }
 
     @Test
