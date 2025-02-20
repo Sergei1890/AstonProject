@@ -1,6 +1,7 @@
 package ru.pavlov;
 
 import org.testng.annotations.Test;
+import org.testng.asserts.SoftAssert;
 import static org.testng.Assert.assertEquals;
 
 public class FactorialTest {
@@ -12,19 +13,31 @@ public class FactorialTest {
 
     @Test
     public void testFactorialOfPositiveNumber() {
-        assertEquals(Factorial.factorial(1), 1);
-        assertEquals(Factorial.factorial(2), 2);
-        assertEquals(Factorial.factorial(6), 720);
+        SoftAssert soft = new SoftAssert();
+        soft.assertEquals(Factorial.factorial(1), 1);
+        soft.assertEquals(Factorial.factorial(2), 2);
+        soft.assertEquals(Factorial.factorial(6), 720);
+        soft.assertAll();
+    }
+
+    @Test
+    public void testFactorialBigNumbers() {
+        assertEquals(Factorial.factorial(20), 2432902008176640000L);
     }
 
     @Test
     //Для любого n > 9:
-    public void testFactorialOfBigNumber() {
+    public void testFactorialOfMoreThanNine() {
         assertEquals((Factorial.factorial(10)) % 100, 0);
     }
 
     @Test(expectedExceptions = IllegalArgumentException.class)
     public void testNegativeNumber() {
         Factorial.factorial(-1);
+    }
+
+    @Test(expectedExceptions = NumberTooLargeException.class)
+    public void testMaxNumber() {
+        Factorial.factorial(21);
     }
 }
