@@ -1,0 +1,29 @@
+plugins {
+    id 'java'
+}
+
+group = 'ru.pavlov'
+version = '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    // Selenium WebDriver
+    implementation 'org.seleniumhq.selenium:selenium-java:4.12.0'
+
+    // WebDriverManager (для автоматической загрузки драйверов)
+    implementation 'io.github.bonigarcia:webdrivermanager:5.5.3'
+
+    // JUnit 5
+    testImplementation platform('org.junit:junit-bom:5.10.0')
+    testImplementation 'org.junit.jupiter:junit-jupiter'
+    testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine:5.10.0'
+    testRuntimeOnly 'org.junit.jupiter:junit-jupiter-params:5.10.0'
+    testRuntimeOnly 'org.junit.platform:junit-platform-suite:1.10.0'
+}
+
+test {
+    useJUnitPlatform()
+}
