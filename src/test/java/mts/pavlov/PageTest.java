@@ -32,6 +32,7 @@ public class PageTest {
         wait = new WebDriverWait(driver, Duration.ofSeconds(10));
         driver.manage().window().maximize();
         driver.get("https://mts.by");
+        driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(20));
         Page = new Page(driver, wait);
     }
 
@@ -110,10 +111,11 @@ public class PageTest {
         ((JavascriptExecutor) driver).executeScript("arguments[0].scrollIntoView(true);", submitButtonElement);
         submitButtonElement.click();
 
-        // Ожидание и проверка URL после нажатия на кнопку
-        String expectedUrl = "https://www.mts.by/";
-        String actualUrl = driver.getCurrentUrl();
-        assertEquals(expectedUrl, actualUrl, "URL после нажатия на кнопку не совпадает.");
+        //Проверка всплывающего окна
+        By checkSum = By.xpath("//div[@class = 'app-wrapper__content']//span[contains(text(),'100.00 BYN')]");
+        WebElement iframe = driver.findElement(By.xpath("//iframe[@class = 'bepaid-iframe']"));
+        driver.switchTo().frame(iframe);
+        assertTrue(isElementDisplayed(checkSum), "Не найдено всплывающее окно с оплатой");
     }
 
     private boolean isElementDisplayed(By locator) {
